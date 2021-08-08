@@ -1,0 +1,7 @@
+server:
+ port: 8081
+
+kafka:
+ bootstrapAddress: localhost:9092
+ emp.topic.name: emp-kafka-topic-1
+ str.topic.name: str-kafka-topic-2
